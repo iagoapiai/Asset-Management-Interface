@@ -1,4 +1,4 @@
-## Python AWS
+## Python Interface
 Interface made with the python language using the CutomTkinter library, unifying all my scripts and plotting some important information!
 
 ## :warning: Prerequisites
